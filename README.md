@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**alexlopezazorin/alexlopezazorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Alejandro Lopez Azorin
 
-Here are some ideas to get you started:
+### 🚀 About Me
+Telecommunications Engineering student at the Polytechnic University of Valencia, part of the High Academic Performance Group, with a strong focus on electronic systems. Currently expanding my international experience through an Erasmus year in Germany and working as an intern at Nordex SE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- **Software:** Python, Java, Verilog, FAMOS, SimuLink, MATLAB, GitHub
+- **Hardware:** FPGA's, C++, PCB design
+
+---
+
+### 📂 Featured Projects
+- 🔗 [Bank Fraud Detection System - IA with Python](https://github.com/alexlopezazorin/bank_fraud_detection)
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/alejandro-lopez-azorin/](https://www.linkedin.com/in/alejandro-lopez-azorin/)
+- Email: alexlopezazorin@gmail.com
+
+---
+
+⭐ **Always open to collaborating on interesting projects. Let’s connect!**
+- Always exploring new technologies and creating personal projects to learn and share.
+

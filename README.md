@@ -5,13 +5,17 @@
 Telecommunications Engineering student at the Polytechnic University of Valencia, part of the High Academic Performance Group, with a strong focus on electronic systems. Currently expanding my international experience through an Erasmus year in Germany and working as an intern at Nordex SE.
 
 ### 🛠️ Skills & Tools
-- **Software:** Python, Java, Verilog, FAMOS, SimuLink, MATLAB, GitHub
-- **Hardware:** FPGA's, C++, PCB design
+- **Software & Tools:** MATLAB & Simulink, LTSpice, Git/GitHub, Cadence Virtuoso, WireShark, WordPress,
+Microsoft Excel (advanced)
+- **Programming:** C++, Python, Java, System Verilog, HTML/CSS, Arduino, Raspberry PI, STM32, SimuLink, MATLAB, GitHub
+- **Hardware:** Analog & Digital Circuit design, PCB design, soldering (THT/SMD), Microcontrollers, FPGA
+development, oscilloscopes & multimeters, sensor integration, actuators, basic power electronics
 
 ---
 
 ### 📂 Featured Projects
 - 🔗 [Bank Fraud Detection System - IA with Python](https://github.com/alexlopezazorin/bank_fraud_detection)
+- 🔗 [Microprocessor RISC-V design - System Verilog](https://github.com/alexlopezazorin/RISC-V_design)
 
 ---
 

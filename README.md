@@ -16,6 +16,7 @@ development, oscilloscopes & multimeters, sensor integration, actuators, basic p
 ### 📂 Featured Projects
 - 🔗 [Bank Fraud Detection System - IA with Python](https://github.com/alexlopezazorin/bank_fraud_detection)
 - 🔗 [Microprocessor RISC-V design - System Verilog](https://github.com/alexlopezazorin/RISC-V_design)
+- 🔗 [Android Application for Tracking Calories - Java](https://github.com/alexlopezazorin/Calories_Tracker)
 
 ---
 

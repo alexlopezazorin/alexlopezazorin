@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Alejandro Lopez Azorin
 
 ### 🚀 About Me
-Telecommunications Engineering student at the Polytechnic University of Valencia, part of the High Academic Performance Group, with a strong focus on electronic systems. Currently expanding my international experience through an Erasmus year in Germany and working as an intern at Nordex SE.
+Telecommunications Engineering student at the Polytechnic University of Valencia, Spain, part of the High Academic Performance Group. Currently expanding my international experience through an Erasmus year in Germany and working at Nordex SE.
 
 ### 🛠️ Skills & Tools
 - **Software & Tools:** MATLAB & Simulink, LTSpice, Git/GitHub, Cadence Virtuoso, WireShark, WordPress,
@@ -14,9 +14,12 @@ development, oscilloscopes & multimeters, sensor integration, actuators, basic p
 ---
 
 ### 📂 Featured Projects
-- 🔗 [Bank Fraud Detection System - IA with Python](https://github.com/alexlopezazorin/bank_fraud_detection)
+- 🔗 [boleiro.app](https://www.boleiro.app/)
+- 🔗 [1st Place at AI Cheftreff Hackaton 2026](https://github.com/alexandermk04/bogosort-fls-26) by [BCG Platinion](https://www.bcgplatinion.com)
+- 🔗 [1st Place at TechEurope Berlin Hackaton 2026](https://github.com/RedHoven/tectum) by [Reonic](https://reonic.com)
+- 🔗 [Bank Fraud Detection System - ML Python](https://github.com/alexlopezazorin/bank_fraud_detection)
 - 🔗 [Microprocessor RISC-V design - System Verilog](https://github.com/alexlopezazorin/RISC-V_design)
-- 🔗 [Android Application for Tracking Calories - Java](https://github.com/alexlopezazorin/Calories_Tracker)
+- 🔗 [Android Application for Tracking Calories - JavaScript](https://github.com/alexlopezazorin/Calories_Tracker)
 
 ---
 

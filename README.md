@@ -4,13 +4,6 @@
 ### 🚀 About Me
 Telecommunications Engineering student at the Polytechnic University of Valencia, Spain, part of the High Academic Performance Group. Currently expanding my international experience through an Erasmus year in Germany and working at Nordex SE.
 
-### 🛠️ Skills & Tools
-- **Software & Tools:** MATLAB & Simulink, LTSpice, Git/GitHub, Cadence Virtuoso, WireShark, WordPress,
-Microsoft Excel (advanced)
-- **Programming:** C++, Python, Java, System Verilog, HTML/CSS, Arduino, Raspberry PI, STM32, SimuLink, MATLAB, GitHub
-- **Hardware:** Analog & Digital Circuit design, PCB design, soldering (THT/SMD), Microcontrollers, FPGA
-development, oscilloscopes & multimeters, sensor integration, actuators, basic power electronics
-
 ---
 
 ### 📂 Featured Projects
